@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="my_profile">My Profile</string>
+    <string name="about_alc">About ALC</string>
+    <string name="alc">ALC 4 Phase 1</string>
+    <string name="welcome_to_alc_4_0">Welcome to ALC 4.0</string>
+    <string name="algeria">Algeria</string>
+    <string name="name">Younes Charfaoui</string>
+    <string name="track">Android Track</string>
+    <string name="email">mxcsyounes@gmail.com</string>
+    <string name="phone">+213 655 269 823</string>
+    <string name="slack_younes_charfaoui">Slack @Younes Charfaoui</string>
+</resources>
